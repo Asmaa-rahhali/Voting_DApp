@@ -1,4 +1,4 @@
-# 🗳️ Voting DApp avec IPFS
+# Voting DApp avec IPFS
 
 Une application décentralisée (DApp) permettant de voter pour des candidats, dont les photos sont hébergées sur IPFS, via un contrat intelligent Solidity déployé localement avec Hardhat.
 
@@ -91,7 +91,7 @@ Elle permet au propriétaire d’ajouter des candidats et aux utilisateurs de vo
 
 ---
 
-## 🧪 Utilisation
+## Utilisation
 
 1. Ouvrir [http://localhost:3000](http://localhost:3000) dans le navigateur
 2. Se connecter à MetaMask (réseau local Hardhat)
