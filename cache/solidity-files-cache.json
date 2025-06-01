@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Studies\\Stockage\\Voting-DApp\\contracts\\Voting.sol": {
+      "lastModificationDate": 1748793873376,
+      "contentHash": "ceb12c51c31dc9bb9e98373c7882fc76",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.2 <0.9.0"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    }
+  }
+}
